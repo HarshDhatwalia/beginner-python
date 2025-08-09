@@ -37,29 +37,5 @@ else:
     print("🤝 It's a draw!")
     
 
-    
 
 
-
-
-
-# player= input("Pick (Rock , Paper, Sesiors): ").strip().capitalize()
-# while True:
-#    if  player in options:
-#       break
-#    else:
-#       print("Invalid entry")
-#       player= input("Pick (Rock , Paper, Sesiors): ").strip().capitalize()
-# while pick:
-#    if computer==player:
-#       print(player)
-#       print(computer)
-#       print("Tie Pick again")
-#       pick+=1
-#       print("------")
-#       player= input("Pick (Rock , Paper, Sesiors): ").strip().capitalize()
-#    elif computer=="Rock" and player=="Sesiors":
-#       break
-#       print()
-# print(player)
-# print(computer)
