@@ -30,22 +30,6 @@ Each project helps practice coding fundamentals while building small, interactiv
 
 ---
 
-## 📸 Preview  
-
-Here are some screenshots/GIFs of the games in action 👇  
-
-### 🎮 Rock Paper Scissors  
-![Rock Paper Scissors Demo](assets/rock_paper_scissors.gif)  
-
-### 🎯 Number Guessing Game  
-![Number Guessing Game Screenshot](assets/number_guessing.png)  
-
-### 📝 Madlibs Game  
-![Madlibs Example](assets/madlibs.png)  
-
-
-
----
 
 ## 🚀 Getting Started  
 
